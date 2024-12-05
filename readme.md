@@ -48,9 +48,9 @@ var steps = new Array(
 
 setStep($("#step-container"), steps);
 
-![logo](https://github.com/luccsll/Steps-Fluig/blob/main/objeto.png)
-
 ```
+
+![logo](https://github.com/luccsll/Steps-Fluig/blob/main/objeto.png)
 
 # Como Atribuir um Step Ativo
 

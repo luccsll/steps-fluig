@@ -1,3 +1,5 @@
+![logo](https://github.com/luccsll/Steps-Fluig/blob/main/capa.png)
+
 # Script para Criação de Steps de Aprovação no Fluig
 
 Este README documenta o funcionamento do script utilizado para criar e gerenciar uma barra de progresso interativa que representa as etapas de um processo de aprovação no Fluig.
@@ -45,6 +47,8 @@ var steps = new Array(
 );
 
 setStep($("#step-container"), steps);
+
+![logo](https://github.com/luccsll/Steps-Fluig/blob/main/objeto.png)
 
 ```
 

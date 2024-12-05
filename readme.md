@@ -87,3 +87,7 @@ setStep($("#step-container"), steps);
 // Ativar o terceiro step (ex.: "Líder da área")
 setStepActive($("#step-container"), 3);
 ```
+## Créditos
+
+Lucas Lima  
+@luccsll

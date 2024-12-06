@@ -84,7 +84,7 @@ Para definir um step como ativo, utilize a função `setStepActive` presente no 
 // Supondo que os steps já foram adicionados ao contêiner com a função setStep
 setStep($("#step-container"), steps);
 
-// Ativar o terceiro step (ex.: "Líder da área")
+// Ativar o terceiro step (ex.: "P&O")
 setStepActive($("#step-container"), 3);
 ```
 ## Créditos
